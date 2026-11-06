@@ -1,7 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="308" height="308" viewBox="0 0 308 308" role="img" aria-labelledby="title desc">
   <title id="title">Offthread</title>
   <desc id="desc">A white pixel-style speech bubble with a green square, on a blue rounded square.</desc>
-  <rect width="308" height="308" rx="64" fill="#3B4DFF"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#3B4DFF" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  <rect x="44" y="24" width="220" height="220" rx="44" fill="#3B4DFF" filter="url(#shadow)"/>
   <path fill="#FFFFFF" d="M108 62h96v24h-96z M84 86h24v72H84z M204 86h24v72h-24z M108 158h96v24h-48v24h-24v-24h-24z"/>
   <path fill="#3AA757" d="M132 110h48v48h-48z"/>
 </svg>
