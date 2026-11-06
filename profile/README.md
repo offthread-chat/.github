@@ -1,8 +1,3 @@
----
-created: 2026-11-07
-last_updated: 2026-11-07
----
-
 <p align="center">
   <a href="https://offthread.chat"><img src="https://offthread.chat/logo.png" width="72" height="72" alt="Offthread" /></a>
 </p>
