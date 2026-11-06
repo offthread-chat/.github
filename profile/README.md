@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://offthread.chat"><img src="https://offthread.chat/logo.png" width="72" height="72" alt="Offthread" /></a>
+  <a href="https://offthread.chat"><img src="https://raw.githubusercontent.com/offthread-chat/.github/main/profile/assets/offthread-logo.svg" width="72" height="72" alt="Offthread" /></a>
 </p>
 
 <h1 align="center">Offthread</h1>
